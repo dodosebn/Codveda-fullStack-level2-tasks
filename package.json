@@ -12,36 +12,22 @@
   "dependencies": {
     "axios": "^1.13.2",
     "bcryptjs": "^3.0.3",
-<<<<<<< HEAD
     "dotenv": "^17.2.3",
-=======
-    "cors": "^2.8.5",
->>>>>>> origin/main
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-<<<<<<< HEAD
     "react-icons": "^5.5.0",
-=======
->>>>>>> origin/main
     "react-router-dom": "^7.11.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
-<<<<<<< HEAD
-=======
-    "@types/cors": "^2.8.19",
->>>>>>> origin/main
     "@types/express": "^5.0.6",
     "@types/jsonwebtoken": "^9.0.10",
     "@types/node": "^24.10.1",
     "@types/react": "^19.2.5",
     "@types/react-dom": "^19.2.3",
-<<<<<<< HEAD
     "@types/react-router-dom": "^5.3.3",
-=======
->>>>>>> origin/main
     "@vitejs/plugin-react": "^5.1.1",
     "autoprefixer": "^10.4.23",
     "eslint": "^9.39.1",
