@@ -24,7 +24,11 @@ const Button: React.FC<ButtonProps> = ({
     <button
       className={`${baseStyles} ${variants[variant]} ${className}`}
       disabled={disabled || loading}
+<<<<<<< HEAD
       {...props} 
+=======
+      {...props}
+>>>>>>> origin/main
     >
       {loading ? (
         <span className="flex items-center justify-center">
